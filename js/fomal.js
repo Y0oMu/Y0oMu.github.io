@@ -3175,7 +3175,7 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(/assets/cbg.png);
-    --darkmode-bg:url(/assets/cbg.png);
+    --darkmode-bg:url(/assets/img/水墨3.png);
     --mobileday-bg: url(/assets/cbg.png);
     --mobilenight-bg: url(/assets/cbg.png);
   }`;
