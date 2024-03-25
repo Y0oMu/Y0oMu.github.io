@@ -1119,21 +1119,22 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Fomalhaut🥝の小家!`,
-    `Future is now 🍭🍭🍭`,
+    `欢迎来到YouMuSaMa的BLOG`,
+    `Love U`,
     `
         
-███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ 
-██      ██    ██ ████  ████ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-█████   ██    ██ ██ ████ ██ ███████ ██      ███████ ███████ ██    ██    ██    
-██      ██    ██ ██  ██  ██ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-██       ██████  ██      ██ ██   ██ ███████ ██   ██ ██   ██  ██████     ██   
+    _____.___.               _____         _________          _____          
+    \__  |   | ____  __ __  /     \  __ __/   _____/____     /     \ _____   
+     /   |   |/  _ \|  |  \/  \ /  \|  |  \_____  \\__  \   /  \ /  \\__  \  
+     \____   (  <_> )  |  /    Y    \  |  /        \/ __ \_/    Y    \/ __ \_
+     / ______|\____/|____/\____|__  /____/_______  (____  /\____|__  (____  /
+     \/                           \/             \/     \/         \/     \/  
                                               
 `,
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2022 By Fomalhaut",
+    "©2024 By YouMuSaMa",
   ];
 
   setTimeout(
@@ -3158,7 +3159,7 @@ let seovx = "url(https://cdn.seovx.com/?mom=302)";
 // picsum随机
 let picsum = "url(https://picsum.photos/1920/1080.webp)";
 // 小歪二次元
-// let waiDongman = "url(https://api.ixiaowai.cn/api/api.php)";
+let waiDongman = "url(https://api.ixiaowai.cn/api/api.php)";
 //  小歪高清壁纸
 let waiBizhi = "url(https://api.ixiaowai.cn/gqapi/gqapi.php)";
 // 博天随机
