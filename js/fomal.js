@@ -3175,10 +3175,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(/assets/cbg.png);
+    --default-bg: url(/assets/img/首页4.jpg);
     --darkmode-bg:url(/assets/img/水墨3.png);
-    --mobileday-bg: url(/assets/cbg.png);
-    --mobilenight-bg: url(/assets/cbg.png);
+    --mobileday-bg: url(/assets/img/首页4.jpg);
+    --mobilenight-bg: url(/assets/img/首页4.jpg);
   }`;
 }
 // 切换背景主函数
