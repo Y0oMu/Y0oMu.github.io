@@ -55,8 +55,6 @@ Han Bao\*, Yue Huang\*, Yanbo Wang\*, **Jiayi Ye**\*, Xiangqi Wang, Xiangliang Z
 - *Nov. 2022* International Collegiate Programming Contest(ICPC), Regional, Silver medal prize
 - *Nov. 2022* International Collegiate Programming Contest(ICPC), Regional, bronze medal prize
 - *Nov. 2021* National Olympiad in Informatics in Provinces(NOIP), First prize
-<!-- # 📖 Educations
-- *2022.09 - 2026.06 (Expected)*, B.S. Candidate in Computer Science(**Top Student Program**), <img src='images/scu.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/)  -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
