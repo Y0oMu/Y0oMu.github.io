@@ -31,7 +31,7 @@ Yanbo Wang is an undergraduate student in the Computer Science college, expected
 
 [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge]()
 
-Jiayi Ye\*, **Yanbo Wang**\*, Yue Huang\*, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Pin-Yu Chen, Nitesh V. Chawla, Xiangliang Zhang (\*: Equal contribution)
+**Jiayi Ye**\*, Yanbo Wang\*, Yue Huang\*, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Pin-Yu Chen, Nitesh V. Chawla, Xiangliang Zhang (\*: Equal contribution)
 
 
 [![Website Visits](https://img.shields.io/badge/Website-Visits-blue?style=flat&logo=github&logoColor=white)](https://llm-judge-bias.github.io/)
@@ -44,7 +44,7 @@ Jiayi Ye\*, **Yanbo Wang**\*, Yue Huang\*, Dongping Chen, Qihui Zhang, Nuno Moni
 
 [AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?]()
 
-Han Bao\*, **Yanbo Wang**\*, Jiayi Ye\*, Yue Huang \*, Xiangqi Wang, Xiangliang Zhang (\*: Equal contribution)
+Han Bao\*, Yue Huang\*, Yanbo Wang\*, **Jiayi Ye**\*, Xiangqi Wang, Xiangliang Zhang (\*: Equal contribution)
 
 
 </div>
