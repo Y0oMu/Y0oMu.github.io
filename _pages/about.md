@@ -55,7 +55,7 @@ Han Bao\*, Yue Huang\*, Yanbo Wang\*, **Jiayi Ye**\*, Xiangqi Wang, Xiangliang Z
 - *Nov. 2022* International Collegiate Programming Contest(ICPC), Regional, Silver medal prize
 - *Nov. 2022* International Collegiate Programming Contest(ICPC), Regional, bronze medal prize
 - *Nov. 2021* National Olympiad in Informatics in Provinces(NOIP), First prize
-- 
+
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, B.S. Candidate in Cyber Science
   
