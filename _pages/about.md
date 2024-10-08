@@ -55,12 +55,12 @@ Han Bao\*, Yue Huang\*, Yanbo Wang\*, **Jiayi Ye**\*, Xiangqi Wang, Xiangliang Z
 - *Nov. 2022* International Collegiate Programming Contest(ICPC), Regional, Silver medal prize
 - *Nov. 2022* International Collegiate Programming Contest(ICPC), Regional, bronze medal prize
 - *Nov. 2021* National Olympiad in Informatics in Provinces(NOIP), First prize
+- 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, B.S. Candidate in Cyber Science
+  
 # 💬 Invited Talks
 - None
-<!--  - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) --> 
 
 # 💻 Internships
 - *2024.07 - now*, Research Intern at <img src='images/Notre_Dame.jpg' style='width: 1.2em;'> [University of Notre Dame](https://www.nd.edu/) 
