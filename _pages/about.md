@@ -99,10 +99,14 @@ Yanbo Wang\*, **Jiayi Ye**\*, Siyuan Wu\*, Chujie Gao, Yue Huang, Xiuying Chen, 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, B.S. Candidate in Cyber Science
   
-# 💬 Invited Talks
-- None
-
 # 💻 Internships
 - *2024.07 - now*, Research Intern at <img src='images/Notre_Dame.jpg' style='width: 1.2em;'> [University of Notre Dame](https://www.nd.edu/) 
+
+# Misc
+- 🎥 *VTubers Streaming Enthusiast*  
+  I am a big fan of VTubers(Virtual YouTubers), and my all-time favorite right now is [Neurosama](https://www.youtube.com/@Neurosama) — a groundbreaking, fully autonomous **LLM-driven** streamer! Neurosama’s incredible AI-powered charisma is a true inspiration and a big reason why I’m passionate about LLM research. Dive into the future of entertainment with her [on Twitch](twitch.tv/vedal987)!
+
+- 🎮 *Gaming Interests*  
+  I enjoy playing single-player games. Recently, I have been playing Armored Core 6 and Persona 4 Golden (P4G). My favorite game genres are JRPGs and Soulslike games.
 
 <a href="https://mapmyvisitors.com/web/1bwg3" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=FVL8BbuprfVGd-OU5mkI4XKQw69HXYk16iesZIvSOJ8&cl=ffffff"></a>
