@@ -84,11 +84,11 @@ Yanbo Wang\*, **Jiayi Ye**\*, Siyuan Wu\*, Chujie Gao, Yue Huang, Xiuying Chen, 
 
 - [Breaking Focus: Contextual Distraction Curse in Large Language Models](https://arxiv.org/abs/2502.01609)
 
-Yanbo Wang\*, Zixiang Xu\*, Yue Huang\*, Chujie Gao, Siyuan Wu, **Jiayi Ye**, Xiuying Chen, Pin-Yu Chen, Xiangliang Zhang (\*: Equal contribution)
+  Yanbo Wang\*, Zixiang Xu\*, Yue Huang\*, Chujie Gao, Siyuan Wu, **Jiayi Ye**, Xiuying Chen, Pin-Yu Chen, Xiangliang Zhang (\*: Equal contribution)
 
-[![Arxiv](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2502.01609)
-[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2502.01609)
-[![Github](https://img.shields.io/badge/Code-Github-green)](https://github.com/wyf23187/LLM_CDV)
+  [![Arxiv](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2502.01609)
+  [![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2502.01609)
+  [![Github](https://img.shields.io/badge/Code-Github-green)](https://github.com/wyf23187/LLM_CDV)
 
 # 🎖 Honors and Awards
 <!-- - *May 2023* Tencent Cup: Sichuan University Programming Contest, First Place Winner -->
