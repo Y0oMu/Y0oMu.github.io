@@ -31,7 +31,7 @@ Jiayi Ye is an undergraduate student in the Cyber Science college, expected to g
 
 [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://arxiv.org/abs/2410.02736)
 
-**Jiayi Ye**\*, Yanbo Wang\*, Yue Huang\*, Dongping Chen, Qihui Zhang, Pin-Yu Chen, Nitesh V. Chawla, Xiangliang Zhang (\*: Equal contribution)
+**Jiayi Ye**\*, Yanbo Wang\*, Yue Huang\*, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang (\*: Equal contribution)
 
 [![Website Visits](https://img.shields.io/badge/Github-Website-blue?style=flat&logo=github&logoColor=white)](https://llm-judge-bias.github.io/)
 [![Arxiv](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2410.02736)
