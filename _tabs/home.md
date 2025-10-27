@@ -21,7 +21,6 @@ Currently, I am a research intern at the [MINE Lab](https://www.cse.nd.edu/mine/
 - AI for ACGN (Animation, Comics, Games, and Novels)
 - Knowledge & Reasoning in LLMs
 
-
 ## Education
 
 - **Sichuan University** (Sep. 2022 – Jun. 2026, Expected)
