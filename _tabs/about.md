@@ -32,3 +32,8 @@ order: 4
 ## Publications
 
 See the dedicated Pubs page for a complete, ordered list: [Publications](/publications/)
+
+## Hobbies
+
+- I'm a fan of JRPGs and Souls-like games.
+- Currently playing: The Legend of Heroes: Trails in the Sky FC and Elden Ring Nightreign.

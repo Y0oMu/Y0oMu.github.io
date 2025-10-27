@@ -5,7 +5,7 @@ order: 5
 permalink: /publications/
 ---
 
-Below is a curated list of my publications (ordered as specified in my CV).
+Below is a curated list of my publications.
 
 ---
 
