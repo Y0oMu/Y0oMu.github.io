@@ -14,12 +14,14 @@ Currently, I am a research intern at the [MINE Lab](https://www.cse.nd.edu/mine/
 
 ---
 
+
 ## Research Interests
 
 - Large Language Models (LLMs) & Human-Computer Interaction (HCI)
 - Personalized AI Copilots
 - AI for ACGN (Animation, Comics, Games, and Novels)
 - Knowledge & Reasoning in LLMs
+
 
 ## Education
 
