@@ -1,7 +1,8 @@
 ---
-title: Home
+title: About Me
 layout: page
 permalink: /
+hidden: true
 ---
 
 Hi! 👋 My name is **Jiayi Ye (叶佳一)**.
