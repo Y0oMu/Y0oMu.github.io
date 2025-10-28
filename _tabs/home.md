@@ -12,6 +12,8 @@ My research interests lie at the exciting intersection of **Human-Computer Inter
 
 Currently, I am a research intern at the [MINE Lab](https://www.cse.nd.edu/mine/) at the University of Notre Dame, advised by [Prof. Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en). I am also a maintainer for the [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) project, a popular open-source tool for creating LLM-driven virtual streamers.
 
+- [Download my CV (PDF)](/Jiayi_Ye_CV.pdf){:target="_blank" rel="noopener"}
+
 ---
 
 
