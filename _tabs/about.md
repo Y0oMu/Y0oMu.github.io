@@ -11,7 +11,7 @@ I am a final-year undergraduate student at the [Sichuan University](https://www.
 
 My research interests lie at the exciting intersection of **Human-Computer Interaction (HCI) and Large Language Models (LLMs)**. I am passionate about building interactive, personalized AI agents, with a special focus on applications within the ACGN (Animations, Comics, Games and Novels) space, such as role-playing agents and AI VTubers. I am also interested in Knowledge and Reasoning.
 
-Currently, I am a research intern at the [MINE Lab](https://www.cse.nd.edu/mine/) at the University of Notre Dame, advised by [Prof. Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en). I am also a maintainer for the [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) project, a popular open-source tool for creating LLM-driven virtual streamers.
+Currently, I am a research intern at the MINE Lab at the University of Notre Dame, advised by [Prof. Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en). I am also a maintainer for the [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) project, a popular open-source tool for creating LLM-driven virtual streamers.
 
 - [Download my CV (PDF)](/Jiayi_Ye_CV.pdf){:target="_blank" rel="noopener"}
 
@@ -22,8 +22,7 @@ Currently, I am a research intern at the [MINE Lab](https://www.cse.nd.edu/mine/
 
 - Large Language Models (LLMs) & Human-Computer Interaction (HCI)
 - Personalized AI Copilots
-- AI for ACGN (Animation, Comics, Games, and Novels)
-- Knowledge & Reasoning in LLMs
+- Any technology that can help with AI for ACGN, including Long Context, Knowledge, Reasoning, etc.
 
 
 ## Education
